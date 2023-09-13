@@ -27,8 +27,8 @@ body{
     height: 500px;
 }
 .teksti{
-    margin: 10px auto;
-    padding: 40px;
+    margin: 20px auto;
+    padding: 20px;
     min-width: 350px;
     min-height: 450px;
     font-style: italic;
